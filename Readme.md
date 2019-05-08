@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Дмитрий Александрович Каретников](https://up.htmlacademy.ru/htmlcss/25/user/1037537).
-* Наставник: [Наталья Майстренко](https://https://htmlacademy.ru/profile/id247943).
+* Наставник: [Наталья Майстренко](https://htmlacademy.ru/profile/id247943).
 
 ---
 
